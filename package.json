@@ -1,0 +1,18 @@
+{
+  "name": "jsenvTest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/brianjang/jsenvTest.git",
+  "author": "Brian Jang",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "node-fetch": "^2.5.0"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
