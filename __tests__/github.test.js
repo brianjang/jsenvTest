@@ -8,7 +8,7 @@ describe('Integration with GitHub API', () => {
   beforeAll(() => {
     github = new GitHub({
       // accessToken: process.env.ACCESS_TOKEN,
-      accessToken: 'b4d9ab2b4ca76b188ed7ca8449d462f44dac9c66',
+      accessToken: '87e3d2ead9a424f71fec6e56860bf311d32de266',
       baseURL: 'https://api.github.com',
     })
   })
